@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">todoisaias</string>
+    <string name="action_settings">Settings</string>
+    <string name="test">Texto de prueba</string>
+    <string name="Nombre">isaias</string>
+    <string name="hinNombre">Escriba un Nombre</string>
+    <string name="hintNombre">Escriba un nombre</string>
+    <string name="hintActividad">Escriba la actividad</string>
+    <string name="actividad">actividad</string>
+    <string name="Guardar">Guardar</string>
+    <string name="error_valid">Sucedio un error al hacer la validación</string>
+    <string name="action_refresh">refrescar</string>
+</resources>
